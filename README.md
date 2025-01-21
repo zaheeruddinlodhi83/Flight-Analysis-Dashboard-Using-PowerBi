@@ -30,9 +30,6 @@ This project features a **responsive Power BI dashboard** designed for analyzing
 - **Airline Data**: Flight status, departure & arrival times, delays, etc.
 - **Weather Data (if applicable)**: External data affecting delays and cancellations.
 
-## Screenshots
-![Dashboard Preview](path_to_screenshot.png)
-
 ## Future Improvements
 - Add **machine learning models** to predict flight delays.
 - Enhance **real-time data integration**.
@@ -42,4 +39,4 @@ This project features a **responsive Power BI dashboard** designed for analyzing
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries or collaborations, reach out at **your.email@example.com** or visit [LinkedIn](https://linkedin.com/in/yourprofile).
+For any queries or collaborations, reach out at **zaheeruddinlodhi83@gmail.com**.
